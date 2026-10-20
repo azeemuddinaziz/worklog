@@ -6,14 +6,13 @@ Help the user become comfortable with the agent and build the habit of logging e
 
 ## Guided tutorial (V1)
 
-A step-by-step product tour that ends with a real first log:
+A short step-by-step tour that happens entirely inside the chat interface, ending with a real first log:
 
-1. Meet the agent.
-2. Create your first Project.
-3. Dump a sample day.
-4. Review the Review Draft.
-5. Approve it.
-6. Set up the daily reminder.
+1. Meet the agent and create your first Project in chat with a slash command (for example `/project`), which opens a small form (name, description/your role).
+2. Dump a sample day, then review and approve the Review Draft.
+3. Set up the daily reminder.
+
+Creating a Project never requires leaving the chat. The same slash command works any time after onboarding.
 
 Guided backfill of past work is **not** part of V1; users can still type past work into the chat manually.
 
