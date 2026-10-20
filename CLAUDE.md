@@ -18,3 +18,4 @@ Single-context: one `GLOSSARY.md` + `docs/adr/` at the repo root. See `docs/agen
 2. Create a feature branch from the freshly pulled default branch; never work on it directly.
 3. Immediately after implementing anything, push and open a PR using the `pr` skill.
 4. Always include a "Try It" section wherever possible (PR descriptions, summaries) with steps a user can follow to verify the change.
+5. After each MVP or PR, propose updates to `docs/learning.md` (topics started, learned, or coming up) and apply them only once the user approves.
